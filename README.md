@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hola! 👋 Soy Paninipy
+
+¡Bienvenido/a a mi rincón en GitHub!
+
+Soy **estudiante de Ingeniería en Informática** con una gran pasión por la **Ciberseguridad** 🔒. Mi objetivo es especializarme en este campo y seguir aprendiendo a diario.
+
+### 🌱 Lo que estoy haciendo
+
+* 💻 Estudiando a fondo temas de **Ciberseguridad**.
+* 📚 Mejorando mis habilidades en la programación y aprendiendo nuevas tecnologías.
+* 🗣️ **Aprendiendo inglés** (¡Si ves algún error, no dudes en corregirme!).
+
+### 💡 Intereses y Hobbies
+
+* 🎮 Me encanta jugar **videojuegos** 
+* 🎬 Disfruto viendo **anime** 
+
+---
+
